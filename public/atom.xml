@@ -1,0 +1,582 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+	<title>Flameshot</title>
+	<link href="http://localhost:8002/atom.xml" rel="self" type="application/atom+xml"/>
+  <link href="http://localhost:8002/"/>
+	<generator uri="https://www.getzola.org/">Zola</generator>
+	<updated>2021-05-01T19:30:00+00:00</updated>
+	<id>http://localhost:8002/atom.xml</id>
+	<entry xml:lang="en">
+		<title>FAQ</title>
+		<published>2021-05-01T19:30:00+00:00</published>
+		<updated>2021-05-01T19:30:00+00:00</updated>
+		<link href="http://localhost:8002/docs/help/faq/" type="text/html"/>
+		<id>http://localhost:8002/docs/help/faq/</id>
+		<content type="html">&lt;h2 id=&quot;what-is-the-adidoks&quot;&gt;What is the AdiDoks?&lt;&#x2F;h2&gt;
+&lt;p&gt;AdiDoks is a Zola theme for Documentation&#x27;s sites, ported by the Hugo Theme
+&lt;a href=&quot;https:&#x2F;&#x2F;getdoks.org&quot;&gt;Doks&lt;&#x2F;a&gt;, which is a pretty nice theme. Thanks a lot to 
+&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;h-enk&quot;&gt;&lt;em&gt;h-enk&lt;&#x2F;em&gt;&lt;&#x2F;a&gt;, the creator of the &lt;a href=&quot;https:&#x2F;&#x2F;getdoks.org&quot;&gt;Doks&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;keyboard-shortcuts-for-search&quot;&gt;Keyboard shortcuts for search?&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;focus: &lt;code&gt;&#x2F;&lt;&#x2F;code&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;select: &lt;code&gt;↓&lt;&#x2F;code&gt; and &lt;code&gt;↑&lt;&#x2F;code&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;open: &lt;code&gt;Enter&lt;&#x2F;code&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;close: &lt;code&gt;Esc&lt;&#x2F;code&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;other-documentation&quot;&gt;Other documentation?&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;docs.netlify.com&#x2F;&quot;&gt;Netlify&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.getzola.org&#x2F;documentation&#x2F;getting-started&#x2F;overview&#x2F;&quot;&gt;Zola&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;contact-the-creator&quot;&gt;Contact the creator?&lt;&#x2F;h2&gt;
+&lt;p&gt;Send &lt;em&gt;Aaran Xu&lt;&#x2F;em&gt; an E-mail:&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;mailto:aaranxu@outlook.com&quot;&gt;aaranxu@outlook.com&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>Code of Conduct</title>
+		<published>2021-05-01T18:20:00+00:00</published>
+		<updated>2021-05-01T18:20:00+00:00</updated>
+		<link href="http://localhost:8002/docs/contributing/code-of-conduct/" type="text/html"/>
+		<id>http://localhost:8002/docs/contributing/code-of-conduct/</id>
+		<content type="html">&lt;h2 id=&quot;our-pledge&quot;&gt;Our Pledge&lt;&#x2F;h2&gt;
+&lt;p&gt;We as members, contributors, and leaders pledge to make participation in our
+community a harassment-free experience for everyone, regardless of age, body
+size, visible or invisible disability, ethnicity, sex characteristics, gender
+identity and expression, level of experience, education, socio-economic status,
+nationality, personal appearance, race, caste, color, religion, or sexual identity
+and orientation.&lt;&#x2F;p&gt;
+&lt;p&gt;We pledge to act and interact in ways that contribute to an open, welcoming,
+diverse, inclusive, and healthy community.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;our-standards&quot;&gt;Our Standards&lt;&#x2F;h2&gt;
+&lt;p&gt;Examples of behavior that contributes to a positive environment for our
+community include:&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;Demonstrating empathy and kindness toward other people&lt;&#x2F;li&gt;
+&lt;li&gt;Being respectful of differing opinions, viewpoints, and experiences&lt;&#x2F;li&gt;
+&lt;li&gt;Giving and gracefully accepting constructive feedback&lt;&#x2F;li&gt;
+&lt;li&gt;Accepting responsibility and apologizing to those affected by our mistakes,
+and learning from the experience&lt;&#x2F;li&gt;
+&lt;li&gt;Focusing on what is best not just for us as individuals, but for the
+overall community&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;Examples of unacceptable behavior include:&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;The use of sexualized language or imagery, and sexual attention or
+advances of any kind&lt;&#x2F;li&gt;
+&lt;li&gt;Trolling, insulting or derogatory comments, and personal or political attacks&lt;&#x2F;li&gt;
+&lt;li&gt;Public or private harassment&lt;&#x2F;li&gt;
+&lt;li&gt;Publishing others&#x27; private information, such as a physical or email
+address, without their explicit permission&lt;&#x2F;li&gt;
+&lt;li&gt;Other conduct which could reasonably be considered inappropriate in a
+professional setting&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;enforcement-responsibilities&quot;&gt;Enforcement Responsibilities&lt;&#x2F;h2&gt;
+&lt;p&gt;Community leaders are responsible for clarifying and enforcing our standards of
+acceptable behavior and will take appropriate and fair corrective action in
+response to any behavior that they deem inappropriate, threatening, offensive,
+or harmful.&lt;&#x2F;p&gt;
+&lt;p&gt;Community leaders have the right and responsibility to remove, edit, or reject
+comments, commits, code, wiki edits, issues, and other contributions that are
+not aligned to this Code of Conduct, and will communicate reasons for moderation
+decisions when appropriate.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;scope&quot;&gt;Scope&lt;&#x2F;h2&gt;
+&lt;p&gt;This Code of Conduct applies within all community spaces, and also applies when
+an individual is officially representing the community in public spaces.
+Examples of representing our community include using an official e-mail address,
+posting via an official social media account, or acting as an appointed
+representative at an online or offline event.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;enforcement&quot;&gt;Enforcement&lt;&#x2F;h2&gt;
+&lt;p&gt;Instances of abusive, harassing, or otherwise unacceptable behavior may be
+reported to the community leaders responsible for enforcement at
+&lt;a href=&quot;mailto:aaranxu@outlook.com&quot;&gt;aaranxu@outlook.com&lt;&#x2F;a&gt;.
+All complaints will be reviewed and investigated promptly and fairly.&lt;&#x2F;p&gt;
+&lt;p&gt;All community leaders are obligated to respect the privacy and security of the
+reporter of any incident.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;enforcement-guidelines&quot;&gt;Enforcement Guidelines&lt;&#x2F;h2&gt;
+&lt;p&gt;Community leaders will follow these Community Impact Guidelines in determining
+the consequences for any action they deem in violation of this Code of Conduct:&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;1-correction&quot;&gt;1. Correction&lt;&#x2F;h3&gt;
+&lt;p&gt;&lt;strong&gt;Community Impact&lt;&#x2F;strong&gt;: Use of inappropriate language or other behavior deemed
+unprofessional or unwelcome in the community.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;Consequence&lt;&#x2F;strong&gt;: A private, written warning from community leaders, providing
+clarity around the nature of the violation and an explanation of why the
+behavior was inappropriate. A public apology may be requested.&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;2-warning&quot;&gt;2. Warning&lt;&#x2F;h3&gt;
+&lt;p&gt;&lt;strong&gt;Community Impact&lt;&#x2F;strong&gt;: A violation through a single incident or series
+of actions.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;Consequence&lt;&#x2F;strong&gt;: A warning with consequences for continued behavior. No
+interaction with the people involved, including unsolicited interaction with
+those enforcing the Code of Conduct, for a specified period of time. This
+includes avoiding interactions in community spaces as well as external channels
+like social media. Violating these terms may lead to a temporary or
+permanent ban.&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;3-temporary-ban&quot;&gt;3. Temporary Ban&lt;&#x2F;h3&gt;
+&lt;p&gt;&lt;strong&gt;Community Impact&lt;&#x2F;strong&gt;: A serious violation of community standards, including
+sustained inappropriate behavior.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;Consequence&lt;&#x2F;strong&gt;: A temporary ban from any sort of interaction or public
+communication with the community for a specified period of time. No public or
+private interaction with the people involved, including unsolicited interaction
+with those enforcing the Code of Conduct, is allowed during this period.
+Violating these terms may lead to a permanent ban.&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;4-permanent-ban&quot;&gt;4. Permanent Ban&lt;&#x2F;h3&gt;
+&lt;p&gt;&lt;strong&gt;Community Impact&lt;&#x2F;strong&gt;: Demonstrating a pattern of violation of community
+standards, including sustained inappropriate behavior,  harassment of an
+individual, or aggression toward or disparagement of classes of individuals.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;Consequence&lt;&#x2F;strong&gt;: A permanent ban from any sort of public interaction within
+the community.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;attribution&quot;&gt;Attribution&lt;&#x2F;h2&gt;
+&lt;p&gt;This Code of Conduct is adapted from the &lt;a href=&quot;https:&#x2F;&#x2F;www.contributor-covenant.org&quot;&gt;Contributor Covenant&lt;&#x2F;a&gt;,
+version 2.0, available at
+&lt;a href=&quot;https:&#x2F;&#x2F;www.contributor-covenant.org&#x2F;version&#x2F;2&#x2F;0&#x2F;code_of_conduct.html&quot;&gt;https:&#x2F;&#x2F;www.contributor-covenant.org&#x2F;version&#x2F;2&#x2F;0&#x2F;code_of_conduct.html&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+&lt;p&gt;Community Impact Guidelines were inspired by 
+&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;mozilla&#x2F;diversity&quot;&gt;Mozilla&#x27;s code of conduct enforcement ladder&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+&lt;p&gt;For answers to common questions about this code of conduct, see the FAQ at
+&lt;a href=&quot;https:&#x2F;&#x2F;www.contributor-covenant.org&#x2F;faq&quot;&gt;https:&#x2F;&#x2F;www.contributor-covenant.org&#x2F;faq&lt;&#x2F;a&gt;. Translations are available 
+at &lt;a href=&quot;https:&#x2F;&#x2F;www.contributor-covenant.org&#x2F;translations&quot;&gt;https:&#x2F;&#x2F;www.contributor-covenant.org&#x2F;translations&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>How to Contribute</title>
+		<published>2021-05-01T18:10:00+00:00</published>
+		<updated>2021-05-01T18:10:00+00:00</updated>
+		<link href="http://localhost:8002/docs/contributing/how-to-contribute/" type="text/html"/>
+		<id>http://localhost:8002/docs/contributing/how-to-contribute/</id>
+		<content type="html">&lt;p&gt;👉 Make sure to read the &lt;a href=&quot;..&#x2F;code-of-conduct&#x2F;&quot;&gt;Code of Conduct&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;contribute-to-doks&quot;&gt;Contribute to Doks&lt;&#x2F;h2&gt;
+&lt;p&gt;👉 The AdiDoks code lives in the &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;aaranxu&#x2F;adidoks&quot;&gt;&lt;code&gt;adidoks&lt;&#x2F;code&gt; repository&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;Follow the &lt;a href=&quot;https:&#x2F;&#x2F;guides.github.com&#x2F;introduction&#x2F;flow&#x2F;&quot;&gt;GitHub flow&lt;&#x2F;a&gt;.&lt;&#x2F;li&gt;
+&lt;li&gt;Follow the &lt;a href=&quot;https:&#x2F;&#x2F;www.conventionalcommits.org&#x2F;en&#x2F;v1.0.0&#x2F;&quot;&gt;Conventional Commits Specification&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h3 id=&quot;create-an-issue&quot;&gt;Create an issue&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;aaranxu&#x2F;adidoks&#x2F;issues&#x2F;new?template=bug-report---.md&quot;&gt;Bug report&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;aaranxu&#x2F;adidoks&#x2F;issues&#x2F;new?template=feature-request---.md&quot;&gt;Feature request&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;improve-documentation&quot;&gt;Improve documentation&lt;&#x2F;h2&gt;
+&lt;p&gt;👉 The documentation lives in &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;aaranxu&#x2F;adidoks&#x2F;tree&#x2F;master&#x2F;content&#x2F;docs&quot;&gt;&lt;code&gt;.&#x2F;content&#x2F;docs&#x2F;&lt;&#x2F;code&gt;&lt;&#x2F;a&gt;
+of the &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;h-enk&#x2F;getdoks.org&quot;&gt;&lt;code&gt;adidoks&lt;&#x2F;code&gt; repository&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;Follow the &lt;a href=&quot;https:&#x2F;&#x2F;guides.github.com&#x2F;introduction&#x2F;flow&#x2F;&quot;&gt;GitHub flow&lt;&#x2F;a&gt;.&lt;&#x2F;li&gt;
+&lt;li&gt;Follow the &lt;a href=&quot;https:&#x2F;&#x2F;www.conventionalcommits.org&#x2F;en&#x2F;v1.0.0&#x2F;&quot;&gt;Conventional Commits Specification&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>Hello World</title>
+		<published>2021-05-01T09:19:42+00:00</published>
+		<updated>2021-05-01T09:19:42+00:00</updated>
+		<link href="http://localhost:8002/blog/hello-world/" type="text/html"/>
+		<id>http://localhost:8002/blog/hello-world/</id>
+		<content type="html">&lt;pre data-lang=&quot;rust&quot; style=&quot;background-color:#2b303b;color:#c0c5ce;&quot; class=&quot;language-rust &quot;&gt;&lt;code class=&quot;language-rust&quot; data-lang=&quot;rust&quot;&gt;&lt;span style=&quot;color:#65737e;&quot;&gt;&#x2F;&#x2F; This is a comment, and is ignored by the compiler
+&lt;&#x2F;span&gt;&lt;span&gt;
+&lt;&#x2F;span&gt;&lt;span style=&quot;color:#65737e;&quot;&gt;&#x2F;&#x2F; This is the main function
+&lt;&#x2F;span&gt;&lt;span style=&quot;color:#b48ead;&quot;&gt;fn &lt;&#x2F;span&gt;&lt;span style=&quot;color:#8fa1b3;&quot;&gt;main&lt;&#x2F;span&gt;&lt;span&gt;() {
+&lt;&#x2F;span&gt;&lt;span&gt;    &lt;&#x2F;span&gt;&lt;span style=&quot;color:#65737e;&quot;&gt;&#x2F;&#x2F; Statements here are executed when the compiled binary is called
+&lt;&#x2F;span&gt;&lt;span&gt;
+&lt;&#x2F;span&gt;&lt;span&gt;    &lt;&#x2F;span&gt;&lt;span style=&quot;color:#65737e;&quot;&gt;&#x2F;&#x2F; Print text to the console
+&lt;&#x2F;span&gt;&lt;span&gt;    println!(&amp;quot;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#a3be8c;&quot;&gt;Hello World!&lt;&#x2F;span&gt;&lt;span&gt;&amp;quot;);
+&lt;&#x2F;span&gt;&lt;span&gt;}
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;p&gt;&lt;code&gt;println!&lt;&#x2F;code&gt; is a macro that prints text to the console.&lt;&#x2F;p&gt;
+&lt;p&gt;A binary can be generated using the Rust compiler: &lt;code&gt;rustc&lt;&#x2F;code&gt;.&lt;&#x2F;p&gt;
+&lt;pre data-lang=&quot;bash&quot; style=&quot;background-color:#2b303b;color:#c0c5ce;&quot; class=&quot;language-bash &quot;&gt;&lt;code class=&quot;language-bash&quot; data-lang=&quot;bash&quot;&gt;&lt;span style=&quot;color:#bf616a;&quot;&gt;$&lt;&#x2F;span&gt;&lt;span&gt; rustc hello.rs
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;p&gt;&lt;code&gt;rustc&lt;&#x2F;code&gt; will produce a &lt;code&gt;hello&lt;&#x2F;code&gt; binary that can be executed.&lt;&#x2F;p&gt;
+&lt;pre data-lang=&quot;bash&quot; style=&quot;background-color:#2b303b;color:#c0c5ce;&quot; class=&quot;language-bash &quot;&gt;&lt;code class=&quot;language-bash&quot; data-lang=&quot;bash&quot;&gt;&lt;span style=&quot;color:#bf616a;&quot;&gt;$&lt;&#x2F;span&gt;&lt;span&gt; .&#x2F;hello
+&lt;&#x2F;span&gt;&lt;span style=&quot;color:#bf616a;&quot;&gt;Hello&lt;&#x2F;span&gt;&lt;span&gt; World!
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>Troubleshooting</title>
+		<published>2021-05-01T08:20:00+00:00</published>
+		<updated>2021-05-01T08:20:00+00:00</updated>
+		<link href="http://localhost:8002/docs/guide/troubleshooting/" type="text/html"/>
+		<id>http://localhost:8002/docs/guide/troubleshooting/</id>
+		<content type="html">&lt;p&gt;Please first read the troubleshooting steps for your operating system in this page and then if it was not solved, report the issue after reading the &lt;a href=&quot;http:&#x2F;&#x2F;localhost:8002&#x2F;docs&#x2F;guide&#x2F;troubleshooting&#x2F;#issue-reporting&quot;&gt;Issue reporting section&lt;&#x2F;a&gt; down below.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;issue-reporting&quot;&gt;Issue reporting&lt;&#x2F;h2&gt;
+&lt;p&gt;To report a bug or suggest a new feature, you can go to &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;flameshot-org&#x2F;flameshot&#x2F;issues&quot;&gt;GitHub issues page&lt;&#x2F;a&gt; and use the searchbox in the middle of the page to see if anyone else have already posted something similar. Sometimes you will find a quick solution just by reading the threads. In case of feature request, if you find someone with similar idea, just give that a thumbs-up to increase its priority&#x2F;importance.&lt;&#x2F;p&gt;
+&lt;p&gt;In case you didn&#x27;t find similar issue, create a new issue and explain in details what the issue is. If you can, add pictures or video recordings to clarify the situation. For bug reports, make sure to also visit the &lt;a href=&quot;..&#x2F;issue-reporting&quot;&gt;issue reporting page&lt;&#x2F;a&gt; in which we have explained how to get the information we need in each bug report.&lt;&#x2F;p&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>Installation</title>
+		<published>2021-05-01T08:00:00+00:00</published>
+		<updated>2021-05-01T08:00:00+00:00</updated>
+		<link href="http://localhost:8002/docs/guide/installation/" type="text/html"/>
+		<id>http://localhost:8002/docs/guide/installation/</id>
+		<content type="html">&lt;h2 id=&quot;linux&quot;&gt;Linux&lt;&#x2F;h2&gt;
+&lt;p&gt;Find out how to install on Linux &lt;a href=&quot;..&#x2F;quick-start&#x2F;&quot;&gt;here →&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;macos&quot;&gt;macOs&lt;&#x2F;h2&gt;
+&lt;p&gt;Find out how to install on macOs &lt;a href=&quot;..&#x2F;quick-start&#x2F;&quot;&gt;here →&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;windows&quot;&gt;Windows&lt;&#x2F;h2&gt;
+&lt;p&gt;Find out how to install on Windows &lt;a href=&quot;..&#x2F;quick-start&#x2F;&quot;&gt;here →&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;development-build&quot;&gt;Development Build&lt;&#x2F;h2&gt;
+&lt;p&gt;If you want to run Flameshot with the most cutting edge features, you can download a packaged development version from &lt;a href=&quot;https:&#x2F;&#x2F;flameshot.org&#x2F;nightly&quot;&gt;here&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;from-source&quot;&gt;From Source&lt;&#x2F;h2&gt;
+&lt;p&gt;Alternatively, you can always compile from source. Click &lt;a href=&quot;https:&#x2F;&#x2F;flameshot.org&#x2F;guide&#x2F;installation&#x2F;compilation&quot;&gt;here&lt;&#x2F;a&gt; for instructions on how to compile from source on different operating systems.&lt;&#x2F;p&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>Issue Reporting</title>
+		<published>2021-05-01T08:00:00+00:00</published>
+		<updated>2021-05-01T08:00:00+00:00</updated>
+		<link href="http://localhost:8002/docs/guide/issue-reporting/" type="text/html"/>
+		<id>http://localhost:8002/docs/guide/issue-reporting/</id>
+		<content type="html">&lt;p&gt;In this page we explain how to properly extract your system information so that you can report it in a GitHub issue Here we discuss commands to be used in a &lt;strong&gt;GNU&#x2F;Linux system&lt;&#x2F;strong&gt;. We might later add similar information for Windows users.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;flameshot-version&quot;&gt;Flameshot version&lt;&#x2F;h2&gt;
+&lt;pre data-lang=&quot;bash&quot; style=&quot;background-color:#2b303b;color:#c0c5ce;&quot; class=&quot;language-bash &quot;&gt;&lt;code class=&quot;language-bash&quot; data-lang=&quot;bash&quot;&gt;&lt;span style=&quot;color:#bf616a;&quot;&gt;flameshot --version
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;p&gt;The output would look like:&lt;&#x2F;p&gt;
+&lt;pre data-lang=&quot;bash&quot; style=&quot;background-color:#2b303b;color:#c0c5ce;&quot; class=&quot;language-bash &quot;&gt;&lt;code class=&quot;language-bash&quot; data-lang=&quot;bash&quot;&gt;&lt;span style=&quot;color:#bf616a;&quot;&gt;Flameshot&lt;&#x2F;span&gt;&lt;span&gt; v0.8.3
+&lt;&#x2F;span&gt;&lt;span style=&quot;color:#bf616a;&quot;&gt;Compiled&lt;&#x2F;span&gt;&lt;span&gt; with Qt 5.15.0
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;h2 id=&quot;quick-collection-of-the-system-information&quot;&gt;Quick collection of the system information&lt;&#x2F;h2&gt;
+&lt;p&gt;Providing the output of this command would usually be enough for a bug report. For much more detailed method, move on to the next section. This method uses a tool that is most probably installed on your computer names &lt;code&gt;inxi&lt;&#x2F;code&gt; and it can quickly collect the graphical information we need. We are only interested in the &amp;quot;systemS&amp;quot; and &amp;quot;Graphics&amp;quot; section:&lt;&#x2F;p&gt;
+&lt;pre data-lang=&quot;bash&quot; style=&quot;background-color:#2b303b;color:#c0c5ce;&quot; class=&quot;language-bash &quot;&gt;&lt;code class=&quot;language-bash&quot; data-lang=&quot;bash&quot;&gt;&lt;span style=&quot;color:#bf616a;&quot;&gt;inxi --width&lt;&#x2F;span&gt;&lt;span&gt; 80&lt;&#x2F;span&gt;&lt;span style=&quot;color:#bf616a;&quot;&gt; --system --graphics
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;p&gt;which should produce an output similar to the following:&lt;&#x2F;p&gt;
+&lt;pre data-lang=&quot;bash&quot; style=&quot;background-color:#2b303b;color:#c0c5ce;&quot; class=&quot;language-bash &quot;&gt;&lt;code class=&quot;language-bash&quot; data-lang=&quot;bash&quot;&gt;&lt;span style=&quot;color:#bf616a;&quot;&gt;System:
+&lt;&#x2F;span&gt;&lt;span&gt;  &lt;&#x2F;span&gt;&lt;span style=&quot;color:#bf616a;&quot;&gt;Host:&lt;&#x2F;span&gt;&lt;span&gt; MyBox Kernel: 5.10.15-1-MANJARO x86_64 bits: 64
+&lt;&#x2F;span&gt;&lt;span&gt;  &lt;&#x2F;span&gt;&lt;span style=&quot;color:#bf616a;&quot;&gt;Desktop:&lt;&#x2F;span&gt;&lt;span&gt; KDE Plasma 5.20.5 Distro: Manjaro Linux
+&lt;&#x2F;span&gt;&lt;span style=&quot;color:#bf616a;&quot;&gt;Graphics:
+&lt;&#x2F;span&gt;&lt;span&gt;  &lt;&#x2F;span&gt;&lt;span style=&quot;color:#bf616a;&quot;&gt;Device-1:&lt;&#x2F;span&gt;&lt;span&gt; Intel Xeon E3-1200 v3&#x2F;4th Gen Core Processor Integrated Graphics
+&lt;&#x2F;span&gt;&lt;span&gt;  &lt;&#x2F;span&gt;&lt;span style=&quot;color:#bf616a;&quot;&gt;driver:&lt;&#x2F;span&gt;&lt;span&gt; i915 v: kernel
+&lt;&#x2F;span&gt;&lt;span&gt;  &lt;&#x2F;span&gt;&lt;span style=&quot;color:#bf616a;&quot;&gt;Device-2:&lt;&#x2F;span&gt;&lt;span&gt; NVIDIA GP106 &lt;&#x2F;span&gt;&lt;span style=&quot;color:#b48ead;&quot;&gt;[&lt;&#x2F;span&gt;&lt;span&gt;GeForce GTX 1060 6GB&lt;&#x2F;span&gt;&lt;span style=&quot;color:#b48ead;&quot;&gt;]&lt;&#x2F;span&gt;&lt;span&gt; driver: nvidia v: 460.39
+&lt;&#x2F;span&gt;&lt;span&gt;  &lt;&#x2F;span&gt;&lt;span style=&quot;color:#bf616a;&quot;&gt;Display:&lt;&#x2F;span&gt;&lt;span&gt; x11 server: X.Org 1.20.10 driver: loaded: modesetting,nvidia
+&lt;&#x2F;span&gt;&lt;span&gt;  &lt;&#x2F;span&gt;&lt;span style=&quot;color:#bf616a;&quot;&gt;unloaded:&lt;&#x2F;span&gt;&lt;span&gt; nouveau resolution: 1: 1080x1920&lt;&#x2F;span&gt;&lt;span style=&quot;color:#bf616a;&quot;&gt;~&lt;&#x2F;span&gt;&lt;span&gt;60Hz 2: 1080x1920&lt;&#x2F;span&gt;&lt;span style=&quot;color:#bf616a;&quot;&gt;~&lt;&#x2F;span&gt;&lt;span&gt;60Hz
+&lt;&#x2F;span&gt;&lt;span&gt;  &lt;&#x2F;span&gt;&lt;span style=&quot;color:#bf616a;&quot;&gt;3:&lt;&#x2F;span&gt;&lt;span&gt; 1920x1080&lt;&#x2F;span&gt;&lt;span style=&quot;color:#bf616a;&quot;&gt;~&lt;&#x2F;span&gt;&lt;span&gt;60Hz
+&lt;&#x2F;span&gt;&lt;span&gt;  &lt;&#x2F;span&gt;&lt;span style=&quot;color:#bf616a;&quot;&gt;OpenGL:&lt;&#x2F;span&gt;&lt;span&gt; renderer: GeForce GTX 1060 6GB&#x2F;PCIe&#x2F;SSE2 v: 4.6.0 NVIDIA 460.39
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;h2 id=&quot;detailed-methods&quot;&gt;Detailed methods&lt;&#x2F;h2&gt;
+&lt;h3 id=&quot;display-server-protocol&quot;&gt;Display Server Protocol&lt;&#x2F;h3&gt;
+&lt;p&gt;Basically what we want to know is if you are using X or Wayland. If you want to know what they are and what they do You can read &lt;a href=&quot;https:&#x2F;&#x2F;www.secjuice.com&#x2F;wayland-vs-xorg&#x2F;&quot;&gt;this article&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+&lt;p&gt;You can use the following command to determine which one do you use:&lt;&#x2F;p&gt;
+&lt;pre data-lang=&quot;bash&quot; style=&quot;background-color:#2b303b;color:#c0c5ce;&quot; class=&quot;language-bash &quot;&gt;&lt;code class=&quot;language-bash&quot; data-lang=&quot;bash&quot;&gt;&lt;span style=&quot;color:#bf616a;&quot;&gt;loginctl&lt;&#x2F;span&gt;&lt;span&gt; show-session $(&lt;&#x2F;span&gt;&lt;span style=&quot;color:#bf616a;&quot;&gt;loginctl&lt;&#x2F;span&gt;&lt;span&gt; show-user $(&lt;&#x2F;span&gt;&lt;span style=&quot;color:#bf616a;&quot;&gt;whoami&lt;&#x2F;span&gt;&lt;span&gt;)&lt;&#x2F;span&gt;&lt;span style=&quot;color:#bf616a;&quot;&gt; -p&lt;&#x2F;span&gt;&lt;span&gt; Display&lt;&#x2F;span&gt;&lt;span style=&quot;color:#bf616a;&quot;&gt; --value&lt;&#x2F;span&gt;&lt;span&gt;)&lt;&#x2F;span&gt;&lt;span style=&quot;color:#bf616a;&quot;&gt; -p&lt;&#x2F;span&gt;&lt;span&gt; Type&lt;&#x2F;span&gt;&lt;span style=&quot;color:#bf616a;&quot;&gt; --value
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;h3 id=&quot;monitor-s-information&quot;&gt;Monitor(s) information&lt;&#x2F;h3&gt;
+&lt;p&gt;You can get lots of information about the monitors, but we are interested to see only those that are active and in use. You can use &lt;code&gt;xrandr&lt;&#x2F;code&gt; command to get the monitor information and here we presenta short version and a long version. The long version is more useful since it also contains information about the orientation of the monitor.&lt;&#x2F;p&gt;
+&lt;p&gt;Short format:&lt;&#x2F;p&gt;
+&lt;pre data-lang=&quot;bash&quot; style=&quot;background-color:#2b303b;color:#c0c5ce;&quot; class=&quot;language-bash &quot;&gt;&lt;code class=&quot;language-bash&quot; data-lang=&quot;bash&quot;&gt;&lt;span style=&quot;color:#bf616a;&quot;&gt;xrandr --listactivemonitors
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;p&gt;The output would look like:&lt;&#x2F;p&gt;
+&lt;pre data-lang=&quot;bash&quot; style=&quot;background-color:#2b303b;color:#c0c5ce;&quot; class=&quot;language-bash &quot;&gt;&lt;code class=&quot;language-bash&quot; data-lang=&quot;bash&quot;&gt;&lt;span style=&quot;color:#bf616a;&quot;&gt;Monitors:&lt;&#x2F;span&gt;&lt;span&gt; 3
+&lt;&#x2F;span&gt;&lt;span style=&quot;color:#bf616a;&quot;&gt;0:&lt;&#x2F;span&gt;&lt;span&gt; +*HDMI-1-1 1920&#x2F;509x1080&#x2F;286+1080+0  HDMI-1-1
+&lt;&#x2F;span&gt;&lt;span style=&quot;color:#bf616a;&quot;&gt;1:&lt;&#x2F;span&gt;&lt;span&gt; +HDMI-0 1080&#x2F;509x1920&#x2F;286+3000+0  HDMI-0
+&lt;&#x2F;span&gt;&lt;span style=&quot;color:#bf616a;&quot;&gt;2:&lt;&#x2F;span&gt;&lt;span&gt; +HDMI-1 1080&#x2F;509x1920&#x2F;286+0+80  HDMI-1
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;p&gt;Long format:&lt;&#x2F;p&gt;
+&lt;pre data-lang=&quot;bash&quot; style=&quot;background-color:#2b303b;color:#c0c5ce;&quot; class=&quot;language-bash &quot;&gt;&lt;code class=&quot;language-bash&quot; data-lang=&quot;bash&quot;&gt;&lt;span style=&quot;color:#bf616a;&quot;&gt;xrandr &lt;&#x2F;span&gt;&lt;span&gt;| &lt;&#x2F;span&gt;&lt;span style=&quot;color:#bf616a;&quot;&gt;grep -v &lt;&#x2F;span&gt;&lt;span&gt;&amp;quot;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#a3be8c;&quot;&gt; disconnected &lt;&#x2F;span&gt;&lt;span&gt;&amp;quot;
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;p&gt;The output would look like:&lt;&#x2F;p&gt;
+&lt;pre data-lang=&quot;bash&quot; style=&quot;background-color:#2b303b;color:#c0c5ce;&quot; class=&quot;language-bash &quot;&gt;&lt;code class=&quot;language-bash&quot; data-lang=&quot;bash&quot;&gt;&lt;span style=&quot;color:#bf616a;&quot;&gt;Screen&lt;&#x2F;span&gt;&lt;span&gt; 0: minimum 8 x 8, current 4080 x 2000, maximum 32767 x 32767
+&lt;&#x2F;span&gt;&lt;span style=&quot;color:#bf616a;&quot;&gt;HDMI-0&lt;&#x2F;span&gt;&lt;span&gt; connected 1080x1920+3000+0 left (normal left inverted right x axis y axis) &lt;&#x2F;span&gt;&lt;span style=&quot;color:#bf616a;&quot;&gt;509mm&lt;&#x2F;span&gt;&lt;span&gt; x 286mm
+&lt;&#x2F;span&gt;&lt;span&gt;   &lt;&#x2F;span&gt;&lt;span style=&quot;color:#bf616a;&quot;&gt;1920x1080&lt;&#x2F;span&gt;&lt;span&gt;     60.00*+  59.94    50.00    60.00    50.04
+&lt;&#x2F;span&gt;&lt;span&gt;   &lt;&#x2F;span&gt;&lt;span style=&quot;color:#bf616a;&quot;&gt;1680x1050&lt;&#x2F;span&gt;&lt;span&gt;     59.95
+&lt;&#x2F;span&gt;&lt;span&gt;   &lt;&#x2F;span&gt;&lt;span style=&quot;color:#bf616a;&quot;&gt;1440x900&lt;&#x2F;span&gt;&lt;span&gt;      74.98    59.89
+&lt;&#x2F;span&gt;&lt;span&gt;   &lt;&#x2F;span&gt;&lt;span style=&quot;color:#bf616a;&quot;&gt;1280x1024&lt;&#x2F;span&gt;&lt;span&gt;     75.02    60.02
+&lt;&#x2F;span&gt;&lt;span&gt;   &lt;&#x2F;span&gt;&lt;span style=&quot;color:#bf616a;&quot;&gt;1280x800&lt;&#x2F;span&gt;&lt;span&gt;      59.81
+&lt;&#x2F;span&gt;&lt;span&gt;   &lt;&#x2F;span&gt;&lt;span style=&quot;color:#bf616a;&quot;&gt;1280x720&lt;&#x2F;span&gt;&lt;span&gt;      60.00    59.94    50.00
+&lt;&#x2F;span&gt;&lt;span&gt;   &lt;&#x2F;span&gt;&lt;span style=&quot;color:#bf616a;&quot;&gt;1152x864&lt;&#x2F;span&gt;&lt;span&gt;      75.00
+&lt;&#x2F;span&gt;&lt;span&gt;   &lt;&#x2F;span&gt;&lt;span style=&quot;color:#bf616a;&quot;&gt;1024x768&lt;&#x2F;span&gt;&lt;span&gt;      75.03    70.07    60.00
+&lt;&#x2F;span&gt;&lt;span&gt;   &lt;&#x2F;span&gt;&lt;span style=&quot;color:#bf616a;&quot;&gt;800x600&lt;&#x2F;span&gt;&lt;span&gt;       75.00    72.19    60.32
+&lt;&#x2F;span&gt;&lt;span&gt;   &lt;&#x2F;span&gt;&lt;span style=&quot;color:#bf616a;&quot;&gt;720x576&lt;&#x2F;span&gt;&lt;span&gt;       50.00
+&lt;&#x2F;span&gt;&lt;span&gt;   &lt;&#x2F;span&gt;&lt;span style=&quot;color:#bf616a;&quot;&gt;720x480&lt;&#x2F;span&gt;&lt;span&gt;       59.94
+&lt;&#x2F;span&gt;&lt;span&gt;   &lt;&#x2F;span&gt;&lt;span style=&quot;color:#bf616a;&quot;&gt;640x480&lt;&#x2F;span&gt;&lt;span&gt;       75.00    72.81    59.93    59.94
+&lt;&#x2F;span&gt;&lt;span style=&quot;color:#bf616a;&quot;&gt;HDMI-1&lt;&#x2F;span&gt;&lt;span&gt; connected 1080x1920+0+80 left (normal left inverted right x axis y axis) &lt;&#x2F;span&gt;&lt;span style=&quot;color:#bf616a;&quot;&gt;509mm&lt;&#x2F;span&gt;&lt;span&gt; x 286mm
+&lt;&#x2F;span&gt;&lt;span&gt;   &lt;&#x2F;span&gt;&lt;span style=&quot;color:#bf616a;&quot;&gt;1920x1080&lt;&#x2F;span&gt;&lt;span&gt;     60.00*+  59.94    50.00    60.00    50.04
+&lt;&#x2F;span&gt;&lt;span&gt;   &lt;&#x2F;span&gt;&lt;span style=&quot;color:#bf616a;&quot;&gt;1680x1050&lt;&#x2F;span&gt;&lt;span&gt;     59.95
+&lt;&#x2F;span&gt;&lt;span&gt;   &lt;&#x2F;span&gt;&lt;span style=&quot;color:#bf616a;&quot;&gt;1440x900&lt;&#x2F;span&gt;&lt;span&gt;      74.98    59.89
+&lt;&#x2F;span&gt;&lt;span&gt;   &lt;&#x2F;span&gt;&lt;span style=&quot;color:#bf616a;&quot;&gt;1280x1024&lt;&#x2F;span&gt;&lt;span&gt;     75.02    60.02
+&lt;&#x2F;span&gt;&lt;span&gt;   &lt;&#x2F;span&gt;&lt;span style=&quot;color:#bf616a;&quot;&gt;1280x800&lt;&#x2F;span&gt;&lt;span&gt;      59.81
+&lt;&#x2F;span&gt;&lt;span&gt;   &lt;&#x2F;span&gt;&lt;span style=&quot;color:#bf616a;&quot;&gt;1280x720&lt;&#x2F;span&gt;&lt;span&gt;      60.00    59.94    50.00
+&lt;&#x2F;span&gt;&lt;span&gt;   &lt;&#x2F;span&gt;&lt;span style=&quot;color:#bf616a;&quot;&gt;1152x864&lt;&#x2F;span&gt;&lt;span&gt;      75.00
+&lt;&#x2F;span&gt;&lt;span&gt;   &lt;&#x2F;span&gt;&lt;span style=&quot;color:#bf616a;&quot;&gt;1024x768&lt;&#x2F;span&gt;&lt;span&gt;      75.03    70.07    60.00
+&lt;&#x2F;span&gt;&lt;span&gt;   &lt;&#x2F;span&gt;&lt;span style=&quot;color:#bf616a;&quot;&gt;800x600&lt;&#x2F;span&gt;&lt;span&gt;       75.00    72.19    60.32
+&lt;&#x2F;span&gt;&lt;span&gt;   &lt;&#x2F;span&gt;&lt;span style=&quot;color:#bf616a;&quot;&gt;720x576&lt;&#x2F;span&gt;&lt;span&gt;       50.00
+&lt;&#x2F;span&gt;&lt;span&gt;   &lt;&#x2F;span&gt;&lt;span style=&quot;color:#bf616a;&quot;&gt;720x480&lt;&#x2F;span&gt;&lt;span&gt;       59.94
+&lt;&#x2F;span&gt;&lt;span&gt;   &lt;&#x2F;span&gt;&lt;span style=&quot;color:#bf616a;&quot;&gt;640x480&lt;&#x2F;span&gt;&lt;span&gt;       75.00    72.81    59.93    59.94
+&lt;&#x2F;span&gt;&lt;span style=&quot;color:#bf616a;&quot;&gt;HDMI-1-1&lt;&#x2F;span&gt;&lt;span&gt; connected primary 1920x1080+1080+0 (normal left inverted right x axis y axis) &lt;&#x2F;span&gt;&lt;span style=&quot;color:#bf616a;&quot;&gt;509mm&lt;&#x2F;span&gt;&lt;span&gt; x 286mm
+&lt;&#x2F;span&gt;&lt;span&gt;   &lt;&#x2F;span&gt;&lt;span style=&quot;color:#bf616a;&quot;&gt;1920x1080&lt;&#x2F;span&gt;&lt;span&gt;     60.00*+
+&lt;&#x2F;span&gt;&lt;span&gt;   &lt;&#x2F;span&gt;&lt;span style=&quot;color:#bf616a;&quot;&gt;1680x1050&lt;&#x2F;span&gt;&lt;span&gt;     59.88
+&lt;&#x2F;span&gt;&lt;span&gt;   &lt;&#x2F;span&gt;&lt;span style=&quot;color:#bf616a;&quot;&gt;1600x900&lt;&#x2F;span&gt;&lt;span&gt;      60.00
+&lt;&#x2F;span&gt;&lt;span&gt;   &lt;&#x2F;span&gt;&lt;span style=&quot;color:#bf616a;&quot;&gt;1280x1024&lt;&#x2F;span&gt;&lt;span&gt;     60.02
+&lt;&#x2F;span&gt;&lt;span&gt;   &lt;&#x2F;span&gt;&lt;span style=&quot;color:#bf616a;&quot;&gt;1440x900&lt;&#x2F;span&gt;&lt;span&gt;      59.90
+&lt;&#x2F;span&gt;&lt;span&gt;   &lt;&#x2F;span&gt;&lt;span style=&quot;color:#bf616a;&quot;&gt;1280x720&lt;&#x2F;span&gt;&lt;span&gt;      60.00
+&lt;&#x2F;span&gt;&lt;span&gt;   &lt;&#x2F;span&gt;&lt;span style=&quot;color:#bf616a;&quot;&gt;1024x768&lt;&#x2F;span&gt;&lt;span&gt;      60.00
+&lt;&#x2F;span&gt;&lt;span&gt;   &lt;&#x2F;span&gt;&lt;span style=&quot;color:#bf616a;&quot;&gt;800x600&lt;&#x2F;span&gt;&lt;span&gt;       60.32
+&lt;&#x2F;span&gt;&lt;span&gt;   &lt;&#x2F;span&gt;&lt;span style=&quot;color:#bf616a;&quot;&gt;640x480&lt;&#x2F;span&gt;&lt;span&gt;       59.94
+&lt;&#x2F;span&gt;&lt;span&gt;   &lt;&#x2F;span&gt;&lt;span style=&quot;color:#bf616a;&quot;&gt;720x400&lt;&#x2F;span&gt;&lt;span&gt;       70.08
+&lt;&#x2F;span&gt;&lt;span&gt;  &lt;&#x2F;span&gt;&lt;span style=&quot;color:#bf616a;&quot;&gt;1920x1080&lt;&#x2F;span&gt;&lt;span&gt; (0x1bf) &lt;&#x2F;span&gt;&lt;span style=&quot;color:#bf616a;&quot;&gt;148.500MHz&lt;&#x2F;span&gt;&lt;span&gt; +HSync +VSync
+&lt;&#x2F;span&gt;&lt;span&gt;        &lt;&#x2F;span&gt;&lt;span style=&quot;color:#bf616a;&quot;&gt;h:&lt;&#x2F;span&gt;&lt;span&gt; width  1920 start 2008 end 2052 total 2200 skew    0 clock  67.50KHz
+&lt;&#x2F;span&gt;&lt;span&gt;        &lt;&#x2F;span&gt;&lt;span style=&quot;color:#bf616a;&quot;&gt;v:&lt;&#x2F;span&gt;&lt;span&gt; height 1080 start 1084 end 1089 total 1125           clock  60.00Hz
+&lt;&#x2F;span&gt;&lt;span&gt;  &lt;&#x2F;span&gt;&lt;span style=&quot;color:#bf616a;&quot;&gt;1280x1024&lt;&#x2F;span&gt;&lt;span&gt; (0x1c8) &lt;&#x2F;span&gt;&lt;span style=&quot;color:#bf616a;&quot;&gt;108.000MHz&lt;&#x2F;span&gt;&lt;span&gt; +HSync +VSync
+&lt;&#x2F;span&gt;&lt;span&gt;        &lt;&#x2F;span&gt;&lt;span style=&quot;color:#bf616a;&quot;&gt;h:&lt;&#x2F;span&gt;&lt;span&gt; width  1280 start 1328 end 1440 total 1688 skew    0 clock  63.98KHz
+&lt;&#x2F;span&gt;&lt;span&gt;        &lt;&#x2F;span&gt;&lt;span style=&quot;color:#bf616a;&quot;&gt;v:&lt;&#x2F;span&gt;&lt;span&gt; height 1024 start 1025 end 1028 total 1066           clock  60.02Hz
+&lt;&#x2F;span&gt;&lt;span&gt;  &lt;&#x2F;span&gt;&lt;span style=&quot;color:#bf616a;&quot;&gt;1280x720&lt;&#x2F;span&gt;&lt;span&gt; (0x1ca) &lt;&#x2F;span&gt;&lt;span style=&quot;color:#bf616a;&quot;&gt;74.250MHz&lt;&#x2F;span&gt;&lt;span&gt; +HSync +VSync
+&lt;&#x2F;span&gt;&lt;span&gt;        &lt;&#x2F;span&gt;&lt;span style=&quot;color:#bf616a;&quot;&gt;h:&lt;&#x2F;span&gt;&lt;span&gt; width  1280 start 1390 end 1430 total 1650 skew    0 clock  45.00KHz
+&lt;&#x2F;span&gt;&lt;span&gt;        &lt;&#x2F;span&gt;&lt;span style=&quot;color:#bf616a;&quot;&gt;v:&lt;&#x2F;span&gt;&lt;span&gt; height  720 start  725 end  730 total  750           clock  60.00Hz
+&lt;&#x2F;span&gt;&lt;span&gt;  &lt;&#x2F;span&gt;&lt;span style=&quot;color:#bf616a;&quot;&gt;1024x768&lt;&#x2F;span&gt;&lt;span&gt; (0x1d0) &lt;&#x2F;span&gt;&lt;span style=&quot;color:#bf616a;&quot;&gt;65.000MHz -HSync -VSync
+&lt;&#x2F;span&gt;&lt;span&gt;        &lt;&#x2F;span&gt;&lt;span style=&quot;color:#bf616a;&quot;&gt;h:&lt;&#x2F;span&gt;&lt;span&gt; width  1024 start 1048 end 1184 total 1344 skew    0 clock  48.36KHz
+&lt;&#x2F;span&gt;&lt;span&gt;        &lt;&#x2F;span&gt;&lt;span style=&quot;color:#bf616a;&quot;&gt;v:&lt;&#x2F;span&gt;&lt;span&gt; height  768 start  771 end  777 total  806           clock  60.00Hz
+&lt;&#x2F;span&gt;&lt;span&gt;  &lt;&#x2F;span&gt;&lt;span style=&quot;color:#bf616a;&quot;&gt;800x600&lt;&#x2F;span&gt;&lt;span&gt; (0x1d3) &lt;&#x2F;span&gt;&lt;span style=&quot;color:#bf616a;&quot;&gt;40.000MHz&lt;&#x2F;span&gt;&lt;span&gt; +HSync +VSync
+&lt;&#x2F;span&gt;&lt;span&gt;        &lt;&#x2F;span&gt;&lt;span style=&quot;color:#bf616a;&quot;&gt;h:&lt;&#x2F;span&gt;&lt;span&gt; width   800 start  840 end  968 total 1056 skew    0 clock  37.88KHz
+&lt;&#x2F;span&gt;&lt;span&gt;        &lt;&#x2F;span&gt;&lt;span style=&quot;color:#bf616a;&quot;&gt;v:&lt;&#x2F;span&gt;&lt;span&gt; height  600 start  601 end  605 total  628           clock  60.32Hz
+&lt;&#x2F;span&gt;&lt;span&gt;  &lt;&#x2F;span&gt;&lt;span style=&quot;color:#bf616a;&quot;&gt;640x480&lt;&#x2F;span&gt;&lt;span&gt; (0x1d9) &lt;&#x2F;span&gt;&lt;span style=&quot;color:#bf616a;&quot;&gt;25.175MHz -HSync -VSync
+&lt;&#x2F;span&gt;&lt;span&gt;        &lt;&#x2F;span&gt;&lt;span style=&quot;color:#bf616a;&quot;&gt;h:&lt;&#x2F;span&gt;&lt;span&gt; width   640 start  656 end  752 total  800 skew    0 clock  31.47KHz
+&lt;&#x2F;span&gt;&lt;span&gt;        &lt;&#x2F;span&gt;&lt;span style=&quot;color:#bf616a;&quot;&gt;v:&lt;&#x2F;span&gt;&lt;span&gt; height  480 start  490 end  492 total  525           clock  59.94Hz
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;h3 id=&quot;graphics-card-information&quot;&gt;Graphics card information&lt;&#x2F;h3&gt;
+&lt;p&gt;For graphics card there are also many ways to get the information but the most two common routes are:&lt;&#x2F;p&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>Key Bindings</title>
+		<published>2021-05-01T08:00:00+00:00</published>
+		<updated>2021-05-01T08:00:00+00:00</updated>
+		<link href="http://localhost:8002/docs/guide/key-bindings/" type="text/html"/>
+		<id>http://localhost:8002/docs/guide/key-bindings/</id>
+		<content type="html">&lt;h2 id=&quot;local&quot;&gt;Local&lt;&#x2F;h2&gt;
+&lt;p&gt;These shortcuts are available in GUI mode:&lt;&#x2F;p&gt;
+&lt;p&gt;...&lt;&#x2F;p&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>Markdown Syntax Guide</title>
+		<published>2021-04-20T09:19:42+00:00</published>
+		<updated>2021-04-20T09:19:42+00:00</updated>
+		<link href="http://localhost:8002/blog/markdown-syntax/" type="text/html"/>
+		<id>http://localhost:8002/blog/markdown-syntax/</id>
+		<content type="html">&lt;h2 id=&quot;headings&quot;&gt;Headings&lt;&#x2F;h2&gt;
+&lt;p&gt;The following HTML &lt;code&gt;&amp;lt;h1&amp;gt;&lt;&#x2F;code&gt;—&lt;code&gt;&amp;lt;h6&amp;gt;&lt;&#x2F;code&gt; elements represent six levels of section
+headings. &lt;code&gt;&amp;lt;h1&amp;gt;&lt;&#x2F;code&gt; is the highest section level while &lt;code&gt;&amp;lt;h6&amp;gt;&lt;&#x2F;code&gt; is the lowest.&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;h1&quot;&gt;H1&lt;&#x2F;h1&gt;
+&lt;h2 id=&quot;h2&quot;&gt;H2&lt;&#x2F;h2&gt;
+&lt;h3 id=&quot;h3&quot;&gt;H3&lt;&#x2F;h3&gt;
+&lt;h4 id=&quot;h4&quot;&gt;H4&lt;&#x2F;h4&gt;
+&lt;h5 id=&quot;h5&quot;&gt;H5&lt;&#x2F;h5&gt;
+&lt;h6 id=&quot;h6&quot;&gt;H6&lt;&#x2F;h6&gt;
+&lt;h2 id=&quot;paragraph&quot;&gt;Paragraph&lt;&#x2F;h2&gt;
+&lt;p&gt;Xerum, quo qui aut unt expliquam qui dolut labo. Aque venitatiusda cum,
+voluptionse latur sitiae dolessi aut parist aut dollo enim qui voluptate ma
+dolestendit peritin re plis aut quas inctum laceat est volestemque commosa as
+cus endigna tectur, offic to cor sequas etum rerum idem sintibus eiur? Quianimin
+porecus evelectur, cum que nis nust voloribus ratem aut omnimi, sitatur?
+Quiatem. Nam, omnis sum am facea corem alique molestrunt et eos evelece arcillit
+ut aut eos eos nus, sin conecerem erum fuga. Ri oditatquam, ad quibus unda
+veliamenimin cusam et facea ipsamus es exerum sitate dolores editium rerore
+eost, temped molorro ratiae volorro te reribus dolorer sperchicium faceata
+tiustia prat.&lt;&#x2F;p&gt;
+&lt;p&gt;Itatur? Quiatae cullecum rem ent aut odis in re eossequodi nonsequ idebis ne
+sapicia is sinveli squiatum, core et que aut hariosam ex eat.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;blockquotes&quot;&gt;Blockquotes&lt;&#x2F;h2&gt;
+&lt;p&gt;The blockquote element represents content that is quoted from another source,
+optionally with a citation which must be within a &lt;code&gt;footer&lt;&#x2F;code&gt; or &lt;code&gt;cite&lt;&#x2F;code&gt; element,
+and optionally with in-line changes such as annotations and abbreviations.&lt;&#x2F;p&gt;
+&lt;h4 id=&quot;blockquote-without-attribution&quot;&gt;Blockquote without attribution&lt;&#x2F;h4&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Tiam, ad mint andaepu dandae nostion secatur sequo quae.
+&lt;strong&gt;Note&lt;&#x2F;strong&gt; that you can use &lt;em&gt;Markdown syntax&lt;&#x2F;em&gt; within a blockquote.&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;h4 id=&quot;blockquote-with-attribution&quot;&gt;Blockquote with attribution&lt;&#x2F;h4&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Don&#x27;t communicate by sharing memory, share memory by communicating.&lt;br&gt;
+— &lt;cite&gt;Rob Pike&lt;sup class=&quot;footnote-reference&quot;&gt;&lt;a href=&quot;#1&quot;&gt;1&lt;&#x2F;a&gt;&lt;&#x2F;sup&gt;&lt;&#x2F;cite&gt;&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;All men by nature desire to know.&lt;br&gt;
+― &lt;cite&gt;Aristotle&lt;sup class=&quot;footnote-reference&quot;&gt;&lt;a href=&quot;#2&quot;&gt;2&lt;&#x2F;a&gt;&lt;&#x2F;sup&gt;&lt;&#x2F;cite&gt;&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;h2 id=&quot;tables&quot;&gt;Tables&lt;&#x2F;h2&gt;
+&lt;p&gt;Tables aren&#x27;t part of the core Markdown spec, but Zola supports them
+out-of-the-box.&lt;&#x2F;p&gt;
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;Name&lt;&#x2F;th&gt;&lt;th&gt;Age&lt;&#x2F;th&gt;&lt;&#x2F;tr&gt;&lt;&#x2F;thead&gt;&lt;tbody&gt;
+&lt;tr&gt;&lt;td&gt;Bob&lt;&#x2F;td&gt;&lt;td&gt;27&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Alice&lt;&#x2F;td&gt;&lt;td&gt;23&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;&#x2F;tbody&gt;&lt;&#x2F;table&gt;
+&lt;h4 id=&quot;inline-markdown-within-tables&quot;&gt;Inline Markdown within tables&lt;&#x2F;h4&gt;
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;Italics&lt;&#x2F;th&gt;&lt;th&gt;Bold&lt;&#x2F;th&gt;&lt;th&gt;Code&lt;&#x2F;th&gt;&lt;&#x2F;tr&gt;&lt;&#x2F;thead&gt;&lt;tbody&gt;
+&lt;tr&gt;&lt;td&gt;&lt;em&gt;italics&lt;&#x2F;em&gt;&lt;&#x2F;td&gt;&lt;td&gt;&lt;strong&gt;bold&lt;&#x2F;strong&gt;&lt;&#x2F;td&gt;&lt;td&gt;&lt;code&gt;code&lt;&#x2F;code&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;&#x2F;tbody&gt;&lt;&#x2F;table&gt;
+&lt;h2 id=&quot;code-blocks&quot;&gt;Code Blocks&lt;&#x2F;h2&gt;
+&lt;h4 id=&quot;code-block-with-backticks&quot;&gt;Code block with backticks&lt;&#x2F;h4&gt;
+&lt;pre data-lang=&quot;html&quot; style=&quot;background-color:#2b303b;color:#c0c5ce;&quot; class=&quot;language-html &quot;&gt;&lt;code class=&quot;language-html&quot; data-lang=&quot;html&quot;&gt;&lt;span&gt;&amp;lt;!doctype html&amp;gt;
+&lt;&#x2F;span&gt;&lt;span&gt;&amp;lt;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#bf616a;&quot;&gt;html &lt;&#x2F;span&gt;&lt;span style=&quot;color:#d08770;&quot;&gt;lang&lt;&#x2F;span&gt;&lt;span&gt;=&amp;quot;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#a3be8c;&quot;&gt;en&lt;&#x2F;span&gt;&lt;span&gt;&amp;quot;&amp;gt;
+&lt;&#x2F;span&gt;&lt;span&gt;&amp;lt;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#bf616a;&quot;&gt;head&lt;&#x2F;span&gt;&lt;span&gt;&amp;gt;
+&lt;&#x2F;span&gt;&lt;span&gt;  &amp;lt;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#bf616a;&quot;&gt;meta &lt;&#x2F;span&gt;&lt;span style=&quot;color:#d08770;&quot;&gt;charset&lt;&#x2F;span&gt;&lt;span&gt;=&amp;quot;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#a3be8c;&quot;&gt;utf-8&lt;&#x2F;span&gt;&lt;span&gt;&amp;quot;&amp;gt;
+&lt;&#x2F;span&gt;&lt;span&gt;  &amp;lt;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#bf616a;&quot;&gt;title&lt;&#x2F;span&gt;&lt;span&gt;&amp;gt;Example HTML5 Document&amp;lt;&#x2F;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#bf616a;&quot;&gt;title&lt;&#x2F;span&gt;&lt;span&gt;&amp;gt;
+&lt;&#x2F;span&gt;&lt;span&gt;&amp;lt;&#x2F;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#bf616a;&quot;&gt;head&lt;&#x2F;span&gt;&lt;span&gt;&amp;gt;
+&lt;&#x2F;span&gt;&lt;span&gt;&amp;lt;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#bf616a;&quot;&gt;body&lt;&#x2F;span&gt;&lt;span&gt;&amp;gt;
+&lt;&#x2F;span&gt;&lt;span&gt;  &amp;lt;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#bf616a;&quot;&gt;p&lt;&#x2F;span&gt;&lt;span&gt;&amp;gt;Test&amp;lt;&#x2F;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#bf616a;&quot;&gt;p&lt;&#x2F;span&gt;&lt;span&gt;&amp;gt;
+&lt;&#x2F;span&gt;&lt;span&gt;&amp;lt;&#x2F;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#bf616a;&quot;&gt;body&lt;&#x2F;span&gt;&lt;span&gt;&amp;gt;
+&lt;&#x2F;span&gt;&lt;span&gt;&amp;lt;&#x2F;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#bf616a;&quot;&gt;html&lt;&#x2F;span&gt;&lt;span&gt;&amp;gt;
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;h4 id=&quot;code-block-indented-with-four-spaces&quot;&gt;Code block indented with four spaces&lt;&#x2F;h4&gt;
+&lt;pre style=&quot;background-color:#2b303b;color:#c0c5ce;&quot;&gt;&lt;code&gt;&lt;span&gt;&amp;lt;!doctype html&amp;gt;
+&lt;&#x2F;span&gt;&lt;span&gt;&amp;lt;html lang=&amp;quot;en&amp;quot;&amp;gt;
+&lt;&#x2F;span&gt;&lt;span&gt;&amp;lt;head&amp;gt;
+&lt;&#x2F;span&gt;&lt;span&gt;  &amp;lt;meta charset=&amp;quot;utf-8&amp;quot;&amp;gt;
+&lt;&#x2F;span&gt;&lt;span&gt;  &amp;lt;title&amp;gt;Example HTML5 Document&amp;lt;&#x2F;title&amp;gt;
+&lt;&#x2F;span&gt;&lt;span&gt;&amp;lt;&#x2F;head&amp;gt;
+&lt;&#x2F;span&gt;&lt;span&gt;&amp;lt;body&amp;gt;
+&lt;&#x2F;span&gt;&lt;span&gt;  &amp;lt;p&amp;gt;Test&amp;lt;&#x2F;p&amp;gt;
+&lt;&#x2F;span&gt;&lt;span&gt;&amp;lt;&#x2F;body&amp;gt;
+&lt;&#x2F;span&gt;&lt;span&gt;&amp;lt;&#x2F;html&amp;gt;
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;h2 id=&quot;list-types&quot;&gt;List Types&lt;&#x2F;h2&gt;
+&lt;h4 id=&quot;ordered-list&quot;&gt;Ordered List&lt;&#x2F;h4&gt;
+&lt;ol&gt;
+&lt;li&gt;First item&lt;&#x2F;li&gt;
+&lt;li&gt;Second item&lt;&#x2F;li&gt;
+&lt;li&gt;Third item&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;h4 id=&quot;unordered-list&quot;&gt;Unordered List&lt;&#x2F;h4&gt;
+&lt;ul&gt;
+&lt;li&gt;List item&lt;&#x2F;li&gt;
+&lt;li&gt;Another item&lt;&#x2F;li&gt;
+&lt;li&gt;And another item&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h4 id=&quot;nested-list&quot;&gt;Nested list&lt;&#x2F;h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Fruit
+&lt;ul&gt;
+&lt;li&gt;Apple&lt;&#x2F;li&gt;
+&lt;li&gt;Orange&lt;&#x2F;li&gt;
+&lt;li&gt;Banana&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;Dairy
+&lt;ul&gt;
+&lt;li&gt;Milk&lt;&#x2F;li&gt;
+&lt;li&gt;Cheese&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;other-elements-abbr-sub-sup-kbd-mark&quot;&gt;Other Elements — abbr, sub, sup, kbd, mark&lt;&#x2F;h2&gt;
+&lt;p&gt;&lt;abbr title=&quot;Graphics Interchange Format&quot;&gt;GIF&lt;&#x2F;abbr&gt; is a bitmap image format.&lt;&#x2F;p&gt;
+&lt;p&gt;H&lt;sub&gt;2&lt;&#x2F;sub&gt;O&lt;&#x2F;p&gt;
+&lt;p&gt;X&lt;sup&gt;n&lt;&#x2F;sup&gt; + Y&lt;sup&gt;n&lt;&#x2F;sup&gt; = Z&lt;sup&gt;n&lt;&#x2F;sup&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;Press &lt;kbd&gt;&lt;kbd&gt;CTRL&lt;&#x2F;kbd&gt;+&lt;kbd&gt;ALT&lt;&#x2F;kbd&gt;+&lt;kbd&gt;Delete&lt;&#x2F;kbd&gt;&lt;&#x2F;kbd&gt; to end the
+session.&lt;&#x2F;p&gt;
+&lt;p&gt;Most &lt;mark&gt;salamanders&lt;&#x2F;mark&gt; are nocturnal, and hunt for insects, worms, and
+other small creatures.&lt;&#x2F;p&gt;
+&lt;hr &#x2F;&gt;
+&lt;!-- Note: There must be a blank line between every two lines of the footnote difinition.  --&gt;
+&lt;div class=&quot;footnote-definition&quot; id=&quot;1&quot;&gt;&lt;sup class=&quot;footnote-definition-label&quot;&gt;1&lt;&#x2F;sup&gt;
+&lt;p&gt;The above quote is excerpted from Rob Pike&#x27;s &lt;a href=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=PAAkCSZUG1c&quot;&gt;talk&lt;&#x2F;a&gt;
+during Gopherfest, November 18, 2015.&lt;&#x2F;p&gt;
+&lt;&#x2F;div&gt;
+&lt;div class=&quot;footnote-definition&quot; id=&quot;2&quot;&gt;&lt;sup class=&quot;footnote-definition-label&quot;&gt;2&lt;&#x2F;sup&gt;
+&lt;p&gt;The quote is the first sentence of Aristotle&#x27;s &lt;a href=&quot;http:&#x2F;&#x2F;classics.mit.edu&#x2F;Aristotle&#x2F;metaphysics.html&quot;&gt;Metaphysics&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+&lt;&#x2F;div&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>Placeholder Text</title>
+		<published>2021-04-10T09:19:42+00:00</published>
+		<updated>2021-04-10T09:19:42+00:00</updated>
+		<link href="http://localhost:8002/blog/placeholder-text/" type="text/html"/>
+		<id>http://localhost:8002/blog/placeholder-text/</id>
+		<content type="html">&lt;p&gt;Lorem est tota propiore conpellat pectoribus de pectora summo. &lt;!--more--&gt;Redit
+teque digerit hominumque toris verebor lumina non cervice subde tollit usus
+habet Arctonque, furores quas nec ferunt. Quoque montibus nunc caluere tempus
+inhospita parcite confusaque translucet patri vestro qui optatis lumine
+cognoscere flos nubis! Fronde ipsamque patulos Dryopen deorum.&lt;&#x2F;p&gt;
+&lt;ol&gt;
+&lt;li&gt;Exierant elisi ambit vivere dedere&lt;&#x2F;li&gt;
+&lt;li&gt;Duce pollice&lt;&#x2F;li&gt;
+&lt;li&gt;Eris modo&lt;&#x2F;li&gt;
+&lt;li&gt;Spargitque ferrea quos palude&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;p&gt;Rursus nulli murmur; hastile inridet ut ab gravi sententia! Nomine potitus
+silentia flumen, sustinet placuit petis in dilapsa erat sunt. Atria tractus malis.&lt;&#x2F;p&gt;
+&lt;ol&gt;
+&lt;li&gt;Comas hunc haec pietate fetum procerum dixit&lt;&#x2F;li&gt;
+&lt;li&gt;Post torum vates letum Tiresia&lt;&#x2F;li&gt;
+&lt;li&gt;Flumen querellas&lt;&#x2F;li&gt;
+&lt;li&gt;Arcanaque montibus omnes&lt;&#x2F;li&gt;
+&lt;li&gt;Quidem et&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;h1 id=&quot;vagus-elidunt&quot;&gt;Vagus elidunt&lt;&#x2F;h1&gt;
+&lt;p&gt;&lt;svg class=&quot;canon&quot; xmlns=&quot;http:&#x2F;&#x2F;www.w3.org&#x2F;2000&#x2F;svg&quot; overflow=&quot;visible&quot; viewBox=&quot;0 0 496 373&quot; height=&quot;373&quot; width=&quot;496&quot;&gt;&lt;g fill=&quot;none&quot;&gt;&lt;path stroke=&quot;#000&quot; stroke-width=&quot;.75&quot; d=&quot;M.599 372.348L495.263 1.206M.312.633l494.95 370.853M.312 372.633L247.643.92M248.502.92l246.76 370.566M330.828 123.869V1.134M330.396 1.134L165.104 124.515&quot;&gt;&lt;&#x2F;path&gt;&lt;path stroke=&quot;#ED1C24&quot; stroke-width=&quot;.75&quot; d=&quot;M275.73 41.616h166.224v249.05H275.73zM54.478 41.616h166.225v249.052H54.478z&quot;&gt;&lt;&#x2F;path&gt;&lt;path stroke=&quot;#000&quot; stroke-width=&quot;.75&quot; d=&quot;M.479.375h495v372h-495zM247.979.875v372&quot;&gt;&lt;&#x2F;path&gt;&lt;ellipse cx=&quot;498.729&quot; cy=&quot;177.625&quot; rx=&quot;.75&quot; ry=&quot;1.25&quot;&gt;&lt;&#x2F;ellipse&gt;&lt;ellipse cx=&quot;247.229&quot; cy=&quot;377.375&quot; rx=&quot;.75&quot; ry=&quot;1.25&quot;&gt;&lt;&#x2F;ellipse&gt;&lt;&#x2F;g&gt;&lt;&#x2F;svg&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Canons_of_page_construction#Van_de_Graaf_canon&quot;&gt;The Van de Graaf Canon&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;mane-refeci-capiebant-unda-mulcebat&quot;&gt;Mane refeci capiebant unda mulcebat&lt;&#x2F;h2&gt;
+&lt;p&gt;Victa caducifer, malo vulnere contra dicere aurato, ludit regale, voca! Retorsit
+colit est profanae esse virescere furit nec; iaculi matertera et visa est,
+viribus. Divesque creatis, tecta novat collumque vulnus est, parvas.
+&lt;strong&gt;Faces illo pepulere&lt;&#x2F;strong&gt; tempus adest. Tendit flamma, ab opes virum sustinet,
+sidus sequendo urbis.&lt;&#x2F;p&gt;
+&lt;p&gt;Iubar proles corpore raptos vero auctor imperium; sed et huic: manus caeli
+Lelegas tu lux. Verbis obstitit intus oblectamina fixis linguisque ausus sperare
+Echionides cornuaque tenent clausit possit. Omnia putatur. Praeteritae refert
+ausus; ferebant e primus lora nutat, vici quae mea ipse. Et iter nil spectatae
+vulnus haerentia iuste et exercebat, sui et.&lt;&#x2F;p&gt;
+&lt;p&gt;Eurytus Hector, materna ipsumque ut Politen, nec, nate, ignari, vernum cohaesit
+sequitur. Vel &lt;strong&gt;mitis temploque&lt;&#x2F;strong&gt; vocatus, inque alis, &lt;em&gt;oculos nomen&lt;&#x2F;em&gt; non silvis
+corpore coniunx ne displicet illa. Crescunt non unus, vidit visa quantum inmiti
+flumina mortis facto sic: undique a alios vincula sunt iactata abdita!
+Suspenderat ego fuit tendit: luna, ante urbem Propoetides &lt;strong&gt;parte&lt;&#x2F;strong&gt;.&lt;&#x2F;p&gt;
+&lt;style&gt;
+.canon { background: white; width: 100%; height: auto; }
+&lt;&#x2F;style&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>Math Typesetting</title>
+		<published>2021-04-08T09:19:42+00:00</published>
+		<updated>2021-04-08T09:19:42+00:00</updated>
+		<link href="http://localhost:8002/blog/math-typesetting/" type="text/html"/>
+		<id>http://localhost:8002/blog/math-typesetting/</id>
+		<content type="html">&lt;p&gt;In this example we will be using &lt;a href=&quot;https:&#x2F;&#x2F;katex.org&#x2F;&quot;&gt;KaTeX&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;Create a macro under &lt;code&gt;&#x2F;template&#x2F;macros&#x2F;math.html&lt;&#x2F;code&gt; with a macro named &lt;code&gt;math&lt;&#x2F;code&gt;.&lt;&#x2F;li&gt;
+&lt;li&gt;Within this macro reference the &lt;a href=&quot;https:&#x2F;&#x2F;katex.org&#x2F;docs&#x2F;autorender.html&quot;&gt;Auto-render Extension&lt;&#x2F;a&gt; or host these scripts locally.&lt;&#x2F;li&gt;
+&lt;li&gt;Import the macro in your templates like so:&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;pre data-lang=&quot;bash&quot; style=&quot;background-color:#2b303b;color:#c0c5ce;&quot; class=&quot;language-bash &quot;&gt;&lt;code class=&quot;language-bash&quot; data-lang=&quot;bash&quot;&gt;&lt;span style=&quot;color:#bf616a;&quot;&gt;{&lt;&#x2F;span&gt;&lt;span&gt;% import &amp;#39;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#a3be8c;&quot;&gt;macros&#x2F;math.html&lt;&#x2F;span&gt;&lt;span&gt;&amp;#39; as macros %}
+&lt;&#x2F;span&gt;&lt;span style=&quot;color:#bf616a;&quot;&gt;{&lt;&#x2F;span&gt;&lt;span&gt;% if page.extra.math or section.extra.math or config.extra.math %}
+&lt;&#x2F;span&gt;&lt;span style=&quot;color:#bf616a;&quot;&gt;{{&lt;&#x2F;span&gt;&lt;span&gt; macros::math() }}
+&lt;&#x2F;span&gt;&lt;span style=&quot;color:#bf616a;&quot;&gt;{&lt;&#x2F;span&gt;&lt;span&gt;% endif %}
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;ul&gt;
+&lt;li&gt;To enable KaTex globally set the parameter &lt;code&gt;extra.math&lt;&#x2F;code&gt; to &lt;code&gt;true&lt;&#x2F;code&gt; in a project&#x27;s configuration&lt;&#x2F;li&gt;
+&lt;li&gt;To enable KaTex on a per page basis include the parameter &lt;code&gt;extra.math = true&lt;&#x2F;code&gt; in content files&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;&lt;strong&gt;Note:&lt;&#x2F;strong&gt; &lt;&#x2F;p&gt;
+&lt;ol&gt;
+&lt;li&gt;The MathJax library is the other optional choice, and you can set the parameter &lt;code&gt;extra.library&lt;&#x2F;code&gt; to &lt;code&gt;mathjax&lt;&#x2F;code&gt; in a project&#x27;s configuration&lt;&#x2F;li&gt;
+&lt;li&gt;Use the online reference of &lt;a href=&quot;https:&#x2F;&#x2F;katex.org&#x2F;docs&#x2F;supported.html&quot;&gt;Supported TeX Functions&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;h3 id=&quot;examples&quot;&gt;Examples&lt;&#x2F;h3&gt;
+&lt;p&gt;
+Inline math: \(\varphi = \dfrac{1+\sqrt5}{2}= 1.6180339887…\) 
+&lt;&#x2F;p&gt;
+&lt;p&gt;Block math:
+$$
+\varphi = 1+\frac{1} {1+\frac{1} {1+\frac{1} {1+\cdots} } } 
+$$&lt;&#x2F;p&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>Say hello to AdiDoks 👋</title>
+		<published>2021-04-03T07:00:00+00:00</published>
+		<updated>2021-04-03T07:00:00+00:00</updated>
+		<link href="http://localhost:8002/blog/say-hello-to-zola-doks/" type="text/html"/>
+		<id>http://localhost:8002/blog/say-hello-to-zola-doks/</id>
+		<content type="html"></content>
+	</entry>
+	<entry xml:lang="en">
+		<title>Aaran Xu</title>
+		<published>2021-04-01T08:50:45+00:00</published>
+		<updated>2021-04-01T08:50:45+00:00</updated>
+		<link href="http://localhost:8002/authors/aaran-xu/" type="text/html"/>
+		<id>http://localhost:8002/authors/aaran-xu/</id>
+		<content type="html">&lt;p&gt;Creator of &lt;strong&gt;AdiDoks&lt;&#x2F;strong&gt;.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;aaranxu&quot;&gt;@aaranxu&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+</content>
+	</entry>
+</feed>
